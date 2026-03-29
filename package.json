@@ -30,5 +30,6 @@
     "typescript": "~5.8.2",
     "vite": "^6.2.0",
     "@types/express": "^4.17.21"
-  }
+  },
+  "homepage": "https://YOUR_USERNAME.github.io/kl-weather-app",
 }
