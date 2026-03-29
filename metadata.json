@@ -1,0 +1,5 @@
+{
+  "name": " Weather Forecast",
+  "description": "A responsive weather forecast application for Kuala Lumpur, Masai and Batu Pahat using Open-Meteo API.",
+  "requestFramePermissions": []
+}
