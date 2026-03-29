@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://YOUR_USERNAME.github.io/kl-weather-app",
+  "homepage": "https://koreyoshimy.github.io/kl-weather-app",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",
